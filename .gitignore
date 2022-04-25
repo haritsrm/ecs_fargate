@@ -1,0 +1,19 @@
+#  Local .terraform directories
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# .tfvars files
+*.tfvars
+
+# IDE or editor configs
+.idea/
+.vscode/
+
+# ansible file
+*.retry
+
+# mac file
+.DS_Store
